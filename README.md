@@ -51,8 +51,10 @@ Moottori käynnistyy, kun nämä vaiheet suoritetaan **tässä järjestyksessä*
 
 ## Käyttö
 ### Suoritus
+```bash
 cd FacadeExample
 dotnet run
+```
 
 ### Tuloste
 Ohjelma demonstroi kahta eri lähestymistapaa:
@@ -91,3 +93,4 @@ FACADE-MALLILLA: (1 objekti, 1 kutsu)
 - **Muisti** - Facade pitää kaikki alijärjestelmät muistissa kokoajan
 
 # FacadeExample
+
